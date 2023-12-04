@@ -1,0 +1,25 @@
+{
+  "name": "livroentendendoalgoritmos",
+  "version": "1.0.0",
+  "description": "Studies of the book \"Entendendo Algoritmos\".",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --loader ts-node/esm index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brms5/livroEntendendoAlgoritmos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brms5/livroEntendendoAlgoritmos/issues"
+  },
+  "homepage": "https://github.com/Brms5/livroEntendendoAlgoritmos#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
